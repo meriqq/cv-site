@@ -98,6 +98,26 @@ li {
     background: #555;
 }
 
+.btn.secondary:hover {
+    background: #333;
+}
+
+.btn.download {
+    background: #2e7d32;
+}
+
+.btn.download:hover {
+    background: #388e3c;
+}
+
+.btn.download.secondary {
+    background: #6a1b9a;
+}
+
+.btn.download.secondary:hover {
+    background: #7b1fa2;
+}
+
 /* Footer */
 footer {
     text-align: center;
