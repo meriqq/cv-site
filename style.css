@@ -126,3 +126,9 @@ footer {
     opacity: 0.85;
     font-size: 14px;
 }
+
+.btn.download { background: #2e7d32; }
+.btn.download:hover { background: #388e3c; }
+.btn.download.secondary { background: #6a1b9a; }
+.btn.download.secondary:hover { background: #7b1fa2; }
+
